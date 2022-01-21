@@ -9,7 +9,7 @@ _Часть проектов может быть не завершена из-з
 
 #### Дорожная карта обучения и проекты:
 
-[1]: https://htmlacademy.ru/courses/:
+[1]: https://htmlacademy.ru/courses
 [2]: https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 [3]: https://sass-scss.ru
 [4]: https://ru.bem.info/methodology
