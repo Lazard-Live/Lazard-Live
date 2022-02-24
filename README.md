@@ -15,7 +15,7 @@
 [3]: https://sass-scss.ru
 [4]: https://ru.bem.info/methodology
 [5]: https://www.linkedin.com/in/r45h
-[6]: https://github.com/R45H/bogdan-1
+[6]: https://github.com/Lazard-Live/Startup
 [7]: https://lazard-live.github.io/Startup-page/
 
 
