@@ -17,6 +17,7 @@
 [5]: https://www.linkedin.com/in/r45h
 [6]: https://github.com/Lazard-Live/Startup
 [7]: https://lazard-live.github.io/Startup-page/
+[8]: https://github.com/Lazard-Live/Edu2021
 
 
 - [x] **Погружение в основы HTML, CSS, JS:**
@@ -41,7 +42,7 @@
 | №   |       Название       |    Проект    |  Результат |
 |-----|:--------------------:|:------------:|:----------:|
 | 1.  | “Welcome to Startup” |   [Git][6]   |  [Page][7] |
-| 2.  |                      |              |            |
+| 2.  | “Заверстаю 09.2021”  |   [Git][8]   |            |
 | 3.  |                      |              |            |
 | 4.  |                      |              |            |
 | 5.  |                      |              |            |
