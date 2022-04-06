@@ -19,6 +19,7 @@
 [7]: https://lazard-live.github.io/Startup-page/
 [8]: https://github.com/Lazard-Live/Edu2021
 [9]: https://lazard-live.github.io/Edu2021-page/
+[10]: https://github.com/Lazard-Live/EduReact
 
 
 - [x] **Погружение в основы HTML, CSS, JS:**
@@ -38,13 +39,13 @@
   - Макет Adobe Photoshop
   - Базовая работа с Pull requests
 
-- [ ] **Сверстать 10 работ (Завершено 2 из 10)**
+- [ ] **Сверстать 10 работ (Завершено 2' из 10)**
   
 | №   |       Название       |    Проект    |  Результат |
 |-----|:--------------------:|:------------:|:----------:|
 | 1.  | “Welcome to Startup” |   [Git][6]   |  [Page][7] |
-| 2.  | “Заверстаю 09.2021”  |   [Git][8]   |  [Page][9] |
-| 3.  |                      |              |            |
+| 2.  | “Заверстаю 09.2021”  |   [Git][8]   |  [Page][9] | * Пока нет мобильной адаптации
+| 3.  | "EduReact"           |   [Git][10]  |            |
 | 4.  |                      |              |            |
 | 5.  |                      |              |            |
 | 6.  |                      |              |            |
