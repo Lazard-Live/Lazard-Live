@@ -6,6 +6,8 @@
 [4.1]: https://lazard-live.github.io/Startup-page/
 [5]: https://github.com/Lazard-Live/Edu2021
 [5.1]: https://lazard-live.github.io/Edu2021-page/
+[6.]: https://github.com/Lazard-Live/edu-htmlacademy-sedona
+[6.1]: https://lazard-live.github.io/edu-htmlacademy-sedona/
 
 ### 👋 Добро пожаловать!
 
@@ -40,7 +42,7 @@
 |-----|:--------------------:|:------------:|:----------:|:----------:|
 | 1.  | “Welcome to Startup” |   [Git][4]   | [Page][4.1]| *Самый проработанный на текущий момент =)*|
 | 2.  | “Заверстаю 09.2021”  |   [Git][5]   | [Page][5.1]| *Нет мобильной адаптации (марафон)*|
-| 3.  |                      |              |            |            |
+| 3.  | "SEDONA - уч.проект" |   [Git][6]   | [Page][6.1]|            |
 | 4.  |                      |              |            |            |
 | 5.  |                      |              |            |            |
 | 6.  |                      |              |            |            |
