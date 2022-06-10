@@ -6,7 +6,7 @@
 [4.1]: https://lazard-live.github.io/Startup-page/
 [5]: https://github.com/Lazard-Live/Edu2021
 [5.1]: https://lazard-live.github.io/Edu2021-page/
-[6.]: https://github.com/Lazard-Live/edu-htmlacademy-sedona
+[6]: https://github.com/Lazard-Live/edu-htmlacademy-sedona
 [6.1]: https://lazard-live.github.io/edu-htmlacademy-sedona/
 
 ### 👋 Добро пожаловать!
