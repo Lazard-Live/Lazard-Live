@@ -3,11 +3,11 @@
 [2]: https://ru.bem.info/methodology
 [3]: https://www.linkedin.com/in/r45h
 [4]: https://github.com/Lazard-Live/Startup
-[4.1]: https://lazard-live.github.io/Startup-page/
+[4.1]: https://lazard-live.github.io/Startup
 [5]: https://github.com/Lazard-Live/Edu2021
 [5.1]: https://lazard-live.github.io/Edu2021-page/
 [6]: https://github.com/Lazard-Live/edu-htmlacademy-sedona
-[6.1]: https://lazard-live.github.io/edu-htmlacademy-sedona/
+[6.1]: https://lazard-live.github.io/edu-htmlacademy-sedona
 
 ### 👋 Добро пожаловать!
 
