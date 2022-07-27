@@ -8,6 +8,7 @@
 [5.1]: https://lazard-live.github.io/Edu2021-page/
 [6]: https://github.com/Lazard-Live/edu-htmlacademy-sedona
 [6.1]: https://lazard-live.github.io/edu-htmlacademy-sedona
+[7]: https://github.com/Lazard-Live/eduCatEnergy
 
 ### 👋 Добро пожаловать!
 
@@ -39,7 +40,7 @@
 | 1.  | “Welcome to Startup” |   [Git][4]   | [Page][4.1]| *Ментор: [Олег Редькин][3]*|
 | 2.  | “Заверстаю 09.2021”  |   [Git][5]   | [Page][5.1]| desktop    |
 | 3.  | "SEDONA - уч.проект" |   [Git][6]   | [Page][6.1]| desktop    |
-| 4.  |                      |              |            |            |
+| 4.  | "CatEnergy - уч.проект" | [Git][7]  |            | в работе   |
 | 5.  |                      |              |            |            |
 | 6.  |                      |              |            |            |
 | 7.  |                      |              |            |            |
