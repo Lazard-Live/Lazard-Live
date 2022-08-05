@@ -14,7 +14,6 @@
 
 Путь: 
   - [X] Основы HTML,CSS,JavaScript
-  - [X] IDE JetBrains WebStorm (+ Prettier так как люблю чистоту)
   - [X] Git
   - [X] [Sass (SCSS)][1]
   - [X] [БЭМ][2]
