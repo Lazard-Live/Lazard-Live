@@ -17,7 +17,7 @@
   - [X] Git
   - [X] [Sass (SCSS)][1]
   - [X] [БЭМ][2]
-  - [X] Сборка на Gulp/WebPack
+  - [X] Сборка на Gulp/WebPack/Vite
   - [X] IDE (JetBrains WebStorm)
   - [X] Figma / Adobe Photoshop
   - [X] Bash
@@ -25,10 +25,7 @@
   - [X] Принцип DRY
   - [ ] В работе
       > прохожу курс Frontend и Ract разработчика 
-      
-      
-      > эксперименты c Vue.js
-      
+      > эксперименты c Vue3
   - [ ] Docker
   - [ ] ??? 
 
