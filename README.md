@@ -25,10 +25,6 @@
   - [X] Bash
   - [X] amCharts.js
   - [X] Принцип DRY
-  - [ ] В работе
-      > прохожу курс Frontend и Ract разработчика 
-      > эксперименты c Vue3
-  - [ ] Docker
   - [ ] ??? 
 
 
