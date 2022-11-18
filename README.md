@@ -11,6 +11,8 @@
 [7]: https://github.com/Lazard-Live/eduCatEnergy
 [8]: https://github.com/Lazard-Live/mvue3edu
 [8.1]: https://lazard-live.github.io/mvue3edu/
+[9]: https://github.com/Lazard-Live/itlogia2
+[9.1]: https://lazard-live.github.io/itlogia2
 
 ### 👋 Привет!
 
@@ -41,7 +43,7 @@
 | 3.  | "SEDONA - уч.проект" |   [Git][6]   | [Page][6.1]| desktop    |
 | 4.  | "CatEnergy - уч.проект" | [Git][7]  |            | в работе/mobile. Скучно =(   |
 | 5.  | "Vue3 обучение (основы)"| [Git][8]  | [Page][8.1]|            |
-| 6.  |                      |              |            |            |
+| 6.  | "Интенсив ItLogia)"| [Git][9]  | [Page][9.1]|            |
 | 7.  |                      |              |            |            |
 | 8.  |                      |              |            |            |
 | 9.  |                      |              |            |            |
