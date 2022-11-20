@@ -11,8 +11,8 @@
 [7]: https://github.com/Lazard-Live/eduCatEnergy
 [8]: https://github.com/Lazard-Live/mvue3edu
 [8.1]: https://lazard-live.github.io/mvue3edu/
-[9]: https://github.com/Lazard-Live/itlogia2
-[9.1]: https://lazard-live.github.io/itlogia2
+[9]: https://github.com/Lazard-Live/itlogia_4_angular
+[9.1]: https://lazard-live.github.io/itlogia_4_angular/
 
 ### 👋 Привет!
 
