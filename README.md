@@ -37,27 +37,41 @@
 
 
 ### :hammer_and_wrench: Используемые мной инстурменты:
- 
-  - [X] Основы HTML,CSS,JavaScript
-  - [X] Git
-  - [X] [Sass (SCSS)][1]
-  - [X] [БЭМ][2]
-  - [X] Сборка на Gulp/WebPack/Vite
-  - [X] IDE (JetBrains WebStorm)
-  - [X] Figma / Adobe Photoshop
-  - [X] Bash
-  - [X] amCharts.js
-  - [X] Принцип DRY
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" title="BEM"  alt="BEM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://vitejs.dev/logo.svg" title="Vite"  alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack"  alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp"  alt="Gulp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue"  alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="  https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJs"  alt="AngularJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BashL"  alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PS"  alt="PS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JB"  alt="JB" width="40" height="40"/>&nbsp;
+  
+</div>
+
+## Моя статистика:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**Памятка**
+##Учебные и экспериментальные проекты:
   
 | №   |       Название       |    Проект    |  Результат | Примечание |
 |-----|:--------------------:|:------------:|:----------:|:----------:|
 | 1.  | “Welcome to Startup” |   [Git][4]   | [Page][4.1]| *Ментор: [Олег Редькин][3]*|
 | 2.  | “Заверстаю 09.2021”  |   [Git][5]   | [Page][5.1]| desktop    |
 | 3.  | "SEDONA - уч.проект" |   [Git][6]   | [Page][6.1]| desktop    |
-| 4.  | "CatEnergy - уч.проект" | [Git][7]  |            | в работе/mobile. Скучно =(   |
+| 4.  | "CatEnergy - уч.проект" | [Git][7]  |            | в работе/mobile. |
 | 5.  | "Vue3 обучение (основы)"| [Git][8]  | [Page][8.1]|            |
 | 6.  | "Интенсив ItLogia"| [Git][9]  | [Page][9.1]|            |
 | 7.  |                      |              |            |            |
