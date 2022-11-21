@@ -59,10 +59,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JB"  alt="JB" width="40" height="40"/>&nbsp;
 </div>
 
-## 📊 Моя статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 👨‍🔬 Учебные и экспериментальные проекты:
   
 | №   |       Название       |    Проект    |  Результат | Примечание |
@@ -78,8 +74,11 @@
 | 9.  |                      |              |            |            |
 | 10. |                      |              |            |            |
 
+## 📊 Моя статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="footer" align="center">
-  <img src="https://media3.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif?cid=790b7611aa0d407b30dd0bd9f1be306e11e61adf83f18961&rid=giphy.gif&ct=s" width="400"/>
+  <img src="https://media3.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif?cid=790b7611aa0d407b30dd0bd9f1be306e11e61adf83f18961&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 
