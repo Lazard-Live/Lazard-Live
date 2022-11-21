@@ -14,9 +14,30 @@
 [9]: https://github.com/Lazard-Live/itlogia_4_angular
 [9.1]: https://lazard-live.github.io/cars-app/
 
-### 👋 Привет!
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611b3abf9dd508946f2c47d41c9c5f78eb08e5547b0&rid=giphy.gif&ct=s" width="200"/>
 
-Путь: 
+  <div id="badges">
+    <a href="https://t.me/workbd">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://vk.com/workbd">
+      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+    </a>
+     <a href="https://www.linkedin.com/in/workbd/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-github-lazardlive&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+Я начинающий Front-end разработчик из г.Мурманск (Россия).
+
+
+### :hammer_and_wrench: Используемые мной инстурменты:
+ 
   - [X] Основы HTML,CSS,JavaScript
   - [X] Git
   - [X] [Sass (SCSS)][1]
@@ -27,12 +48,7 @@
   - [X] Bash
   - [X] amCharts.js
   - [X] Принцип DRY
-  - [ ] ??? 
 
-
-### Контакты:
-- 📫 E-mail: workbd@bk.ru
-- 💬 Telegram: @workbd
 
 **Памятка**
   
