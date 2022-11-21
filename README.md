@@ -31,7 +31,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=your-github-lazardlive&style=flat-square&color=blue" alt=""/>
 
-  Привет! 
+  ### Привет! 
   
  👨‍💻 Я начинающий Front-end разработчик из г.Мурманск (Россия).
 </div>
