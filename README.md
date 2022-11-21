@@ -12,7 +12,7 @@
 [8]: https://github.com/Lazard-Live/mvue3edu
 [8.1]: https://lazard-live.github.io/mvue3edu/
 [9]: https://github.com/Lazard-Live/itlogia_4_angular
-[9.1]: https://lazard-live.github.io/itlogia_4_angular/
+[9.1]: https://github.com/Lazard-Live/cars-app
 
 ### 👋 Привет!
 
