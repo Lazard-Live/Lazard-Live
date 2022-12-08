@@ -80,7 +80,7 @@
 ## 📊 Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="footer" align="center">
+<div id="footer">
   <img src="https://media3.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif?cid=790b7611aa0d407b30dd0bd9f1be306e11e61adf83f18961&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
