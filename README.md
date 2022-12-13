@@ -16,6 +16,7 @@
 [10]: https://github.com/Lazard-Live/womanup-app
 [10.1]: https://lazard-live.github.io/womanup-app/
 [11]: https://github.com/Lazard-Live/MyGallery
+[11.1]: https://mygallery-7vqd.onrender.com/about
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611b3abf9dd508946f2c47d41c9c5f78eb08e5547b0&rid=giphy.gif&ct=s" width="200"/>
@@ -73,7 +74,7 @@
 | 5.  | "Vue3 обучение (основы)"| [Git][8]  | [Page][8.1]|            |
 | 6.  | "Интенсив ItLogia"| [Git][9]  | [Page][9.1]|            |
 | 7.  |  Тестовое задание "womenup" |       [Git][10]       |   [Page][10.1]         |            |
-| 8.  |     Проект резюме      |     [Git][11]         |            |            |
+| 8.  |     Проект резюме      |     [Git][11]         |        [11.1]    |            |
 | 9.  |                      |              |            |            |
 | 10. |                      |              |            |            |
 
