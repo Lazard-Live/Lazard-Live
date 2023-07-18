@@ -20,6 +20,7 @@
 [12]: https://github.com/Lazard-Live/MedicalLandingPage
 [12.1]: https://bitenskaia-irina.onrender.com
 [13]: https://github.com/Lazard-Live/calculator_vite-react/tree/master
+[13.1]: https://calculator-vite-react.vercel.app
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611b3abf9dd508946f2c47d41c9c5f78eb08e5547b0&rid=giphy.gif&ct=s" width="200"/>
@@ -84,7 +85,7 @@
 | 7.  |  Тестовое задание "womenup" |       [Git][10]       |   [Page][10.1]         |            |
 | 8.  |     Проект резюме      |     [Git][11]         |        [Page][11.1]    |            |
 | 9.  |     Сайт ревматолога      |     [Git][12]         |      [Page][12.1]      |  React + Vite          |
-| 10. |              Калькулятор        |          [Git][13]    |       -     |        React + Vite     |
+| 10. |              Калькулятор        |          [Git][13]    |       [Page][13.1]      |        React + Vite     |
 
 ## 📊 Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
