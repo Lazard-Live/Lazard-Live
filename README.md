@@ -32,9 +32,6 @@
     <a href="https://vk.com/workbd">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
     </a>
-     <a href="https://www.linkedin.com/in/workbd/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=your-github-lazardlive&style=flat-square&color=blue" alt=""/>
