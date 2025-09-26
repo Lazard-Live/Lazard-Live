@@ -21,6 +21,9 @@
 [12.1]: https://bitenskaia-irina.onrender.com
 [13]: https://github.com/Lazard-Live/calculator_vite-react/tree/master
 [13.1]: https://calculator-vite-react.vercel.app
+[14]: https://github.com/Lazard-Live/ADB_Install_and_delete_apps_in_Samsung_A34_G5
+[15]: https://github.com/Lazard-Live/-schedule_MAU_mobile
+[15.1]: https://lazard-live.github.io/-schedule_MAU_mobile/
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611b3abf9dd508946f2c47d41c9c5f78eb08e5547b0&rid=giphy.gif&ct=s" width="200"/>
@@ -73,16 +76,26 @@
   
 | №   |       Название       |    Проект    |  Результат | Примечание |
 |-----|:--------------------:|:------------:|:----------:|:----------:|
-| 1.  | “Welcome to Startup” |   [Git][4]   | [Page][4.1]| *Ментор: [Олег Редькин][3]*|
-| 2.  | “Заверстаю 09.2021”  |   [Git][5]   | [Page][5.1]| desktop    |
-| 3.  | "SEDONA - уч.проект" |   [Git][6]   | [Page][6.1]| desktop    |
-| 4.  | "CatEnergy - уч.проект" | [Git][7]  |            | в работе/mobile. |
-| 5.  | "Vue3 обучение (основы)"| [Git][8]  | [Page][8.1]|            |
-| 6.  | "Интенсив ItLogia"| [Git][9]  | [Page][9.1]|            |
-| 7.  |  Тестовое задание "womenup" |       [Git][10]       |   [Page][10.1]         |            |
-| 8.  |     Проект резюме      |     [Git][11]         |        [Page][11.1]    |            |
-| 9.  |     Сайт ревматолога      |     [Git][12]         |      [Page][12.1]      |  React + Vite          |
+| 12. |              Мобильная версия расписания для студентов МАУ      |          [Git][15]    |      [Page][15.1]       |        Javascript    |
+| 11. |              Скрипт чистки OS Samsung A34 5G        |          [Git][14]    |            |        Python + ADB     |
 | 10. |              Калькулятор        |          [Git][13]    |       [Page][13.1]      |        React + Vite     |
+| 9.  |     Сайт ревматолога      |     [Git][12]         |      [Page][12.1]      |  React + Vite          |
+| 8.  |     Проект резюме      |     [Git][11]         |        [Page][11.1]    |            |
+| 7.  |  Тестовое задание "womenup" |       [Git][10]       |   [Page][10.1]         |            |
+| 6.  | "Интенсив ItLogia"| [Git][9]  | [Page][9.1]|            |
+| 5.  | "Vue3 обучение (основы)"| [Git][8]  | [Page][8.1]|            |
+| 4.  | "CatEnergy - уч.проект" | [Git][7]  |            | заброшен |
+| 3.  | "SEDONA - уч.проект" |   [Git][6]   | [Page][6.1]| desktop    |
+| 2.  | “Заверстаю 09.2021”  |   [Git][5]   | [Page][5.1]| desktop    |
+| 1.  | “Welcome to Startup” |   [Git][4]   | [Page][4.1]| *Ментор: [Олег Редькин][3]*|
+
+
+
+
+
+
+
+
 
 ## 📊 Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
