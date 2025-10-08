@@ -87,5 +87,7 @@
 
 ## 📊 Моя статистика:
 <div id="footer">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
