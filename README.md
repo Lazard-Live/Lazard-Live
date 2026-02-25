@@ -37,16 +37,9 @@
   </div>
   
 
-  # Привет!  
-   
-  ## Обо мне:
- 👨‍💻  Я — целеустремленный IT-специалист с 12-летним опытом работы в технологической сфере, решивший дополнительно освоить в Frontend-разработку. Мой богатый опыт в информационной безопасности и администрировании сложных систем научил меня внимательно относиться к деталям, безопасности и надежности решений. Активно осваиваю современный стек технологий и горю желанием применять эти знания на практике. Уверен, что мой опыт станет ценным дополнением в создании удобных и безопасных пользовательских интерфейсов. Ищу возможность присоединиться к команде, где смогу расти как Frontend-разработчик и приносить реальную пользу.  
-  
-  Вопросы\предложения\поговорить можно написать в телеграм: <b>[@workbd][0]</b>
-</div>
 
 
-### :hammer_and_wrench: Ранее используемые инструменты:
+### :hammer_and_wrench:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -68,7 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JB"  alt="JB" width="40" height="40"/>&nbsp;
 </div>
 
-## 👨‍🔬 Учебные и экспериментальные проекты:
+## 👨‍🔬:
   
 | №   |       Название       |    Проект    |  Результат | Примечание |
 |-----|:--------------------:|:------------:|:----------:|:----------:|
@@ -85,9 +78,3 @@
 | 2.  | “Заверстаю 09.2021”  |   [Git][5]   | [Page][5.1]| desktop    |
 | 1.  | “Welcome to Startup” |   [Git][4]   | [Page][4.1]| *Ментор: [Олег Редькин][3]*|
 
-## 📊 Моя статистика:
-<div id="footer">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazard-live&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
